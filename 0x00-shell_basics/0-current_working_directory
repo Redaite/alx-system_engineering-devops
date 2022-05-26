@@ -1,4 +1,3 @@
 #!/bin/bash
-0-current_working_directory
-/tmp/correction/4464649640180415799468526642609094785174_5/205/58480/0x00-shell_basics
+tmp correction 4464649640180415799468526642609094785174_5 205 58480 0x00-shell_basics
 chmod u+x file
