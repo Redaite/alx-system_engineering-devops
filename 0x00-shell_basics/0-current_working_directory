@@ -1,2 +1,4 @@
+cat 1-listit
 #!/bin/bash
-chmod u+x 
+pwd -P
+chmod u+x 0-current_working_directory 
