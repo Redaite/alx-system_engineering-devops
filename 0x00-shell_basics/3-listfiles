@@ -1,2 +1,2 @@
 #!/bin/bash
-total 20
+pwd /ls /cd /ls
