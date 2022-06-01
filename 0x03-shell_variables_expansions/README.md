@@ -1,1 +1,1 @@
-0x03. Shell, init files, variables and expansions
+ a script that creates an alias that named ls.
