@@ -1,2 +1,2 @@
 #!/bin/bash
-
+printf "%cf\n"$Num
