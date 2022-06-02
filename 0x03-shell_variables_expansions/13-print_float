@@ -1,2 +1,3 @@
 #!/bin/bash
 printf "%cf\n"$Num
+sort | uniq -u
