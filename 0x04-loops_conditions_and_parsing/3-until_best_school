@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+# this code will print "best school" 10 times using until loop
+i=0
+message="Best School"
+until false; do 
+	echo $message
+	((i++))
+	if [[ $i -lt 10 ]]; then
+		continue
+	else
+		break
+	fi
+	done
