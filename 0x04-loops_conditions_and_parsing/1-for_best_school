@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 #this code will print Best School Ten times
-message="Best School"
+
 for i in 1 2 3 4 5 6 7 8 9 10
 do
-	echo $message
+	echo "Best School"
 done
 
 echo
