@@ -1,9 +1,8 @@
 #!/usr/bin/env bash
 # the code will excute the string "Best School"
-message="Best School"
 i=0
 while  [ "$i" != 10 ]
 do
-        echo $message
-        i=`expr $i + 1`
+        echo "Best School"
+	((i++))
 done
