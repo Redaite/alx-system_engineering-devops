@@ -2,11 +2,10 @@
 **0x1A. Application server**
 
 ## Author's Details.
-Name: *Wendy Munyasi.*
+Name: *Redaite.*
 
-Email: *wendymunyasi@gmail.com*
+Email: *redaitekalgeteye@gmail.com.*
 
-Tel:*+254707240068.*
 
 ##  Requirements
 
@@ -39,8 +38,8 @@ Tel:*+254707240068.*
     WARNING: Do not use the development server in a production environment.
     Use a production WSGI server instead.
   * Debug mode: off
-  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
-  35.231.193.217 - - [02/May/2019 22:19:42] "GET /airbnb-onepage/ HTTP/1.1" 200 -
+  * Running on http://18.210.33.6/ (Press CTRL+C to quit)
+  35.231.193.217 - - [8/feb/2023 22:19:42] "GET /airbnb-onepage/ HTTP/1.1" 200 -
   ```
 
   **Window 2:**
@@ -79,4 +78,4 @@ Tel:*+254707240068.*
 
 ## Collaborate
 
-To collaborate, reach me through my email address wendymunyasi@gmail.com.
+To collaborate, reach me through my email address redaitekalgeteye@gmail.com.
